@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-image: url("./download.jpeg");
+    background-size: 100% 720px;
+    
+}
+.container{
+    width: 320px;
+    height: 400px;
+    margin-top: 7%;
+    margin-left: 36%;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    justify-content: center;
+    border-radius: 30px;
+    box-shadow: display ;
+}
+.textbar{
+    width: 100%;
+    height: 40px;
+    text-align: right;
+    justify-content: right;
+    column-gap: 10px;
+    display:flex;
+    gap: 16px;
+    box-shadow: flex;
+    background-color: red;
+}
+.heading{
+     size: 25px;
+     color: red;
+     margin-bottom: 20px; 
+}
+.contain .inp1{
+    size: 20px;
+    color: black;
+
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.contain .inp2{
+    size: 20px;
+    color: black;
+
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.sub{
+    width: 200px;
+    height: 30px;
+    border: none;
+    background-color: blue;
+    color: black;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+    
+    
+}
+button:hover{
+    border: 3px solid blueviolet;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    cursor: pointer;
+}
+.pp{
+    margin-top: 36px;
+    font-size: 20px;
+}
+.Fac{
+    width: 200px;
+    height: 30px;
+    border: none;
+    background-color: blue;
+    color: black;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.Ins{
+    width: 200px;
+    height: 30px;
+    border: none;
+    background-color:rgb(215, 22, 67);
+    color: black;
+    margin-top: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+}
